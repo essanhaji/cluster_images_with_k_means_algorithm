@@ -38,7 +38,7 @@ The way kmeans algorithm works is as follows:
 
 ### Test
 Congratulation.
-- Now you can open the notebook ```main.ipynb``` and edit it as you want.<br/>
+- Open the notebook ```main.ipynb``` and edit it as you want.<br/>
 
 - [main.ipynb](main.ipynb)
 
