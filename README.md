@@ -5,7 +5,7 @@
 
 ### Dataset
 * For the first one we use two images ``image.jpg`` and  ``image2.jpg`` for testing image compressing.
-* For the second example we use ``fromage.txt``. it's a small dataset for testing the clustering using ``scipy packages``.
+* For the second example we use ``fromage.txt``, it's a small dataset for testing the clustering using ``scipy packages``.
 
 
 
