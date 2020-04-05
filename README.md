@@ -12,13 +12,14 @@
 
 
 ### K-Means Algorithm
-Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the inter-cluster data points as similar as possible while also keeping the clusters as different (far) as possible. It assigns data points to a cluster such that the sum of the squared distance between the data points and the cluster’s centroid (arithmetic mean of all the data points that belong to that cluster) is at the minimum. The less variation we have within clusters, the more homogeneous (similar) the data points are within the same cluster.
-The way kmeans algorithm works is as follows:
+<p>
+    K-means algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the inter-cluster data points as similar as possible while also keeping the clusters as different (far) as possible. It assigns data points to a cluster such that the sum of the squared distance between the data points and the cluster’s centroid (arithmetic mean of all the data points that belong to that cluster) is at the minimum. The less variation we have within clusters, the more homogeneous (similar) the data points are within the same cluster.<br>
+    The way kmeans algorithm works is as follows :
+</p>
 
 * Specify number of clusters K.
 * Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
 * Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
-
 
 
 
