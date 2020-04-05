@@ -24,7 +24,7 @@
 
 
 ### Requirements
-- Python 3.7
+- Python 3.7 64bit
 
 
 
@@ -48,7 +48,8 @@ Congratulation.
 
 
 ## Authors
-* **El Houcine ES SANHAJI** - *Initial work* - [essanhaji](https://github.com/essanhaji)
+* **[El Houcine ES SANHAJI](https://essanhaji.github.io)** - *Initial work* - [essanhaji](https://github.com/essanhaji)
+
 
 
 
